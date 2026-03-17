@@ -24,177 +24,129 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Van Doren Lab of Migration Biology, University of Illinois Urbana-Champaign",
+      "location": "Urbana, IL, USA",
+      "position": "Undergraduate Research Assistant",
+      "url": "https://www.migrationbiology.org/",
+      "startDate": "2024-08-01",
+      "summary": "Investigating the effects of light pollution on bird flight behavior using 3D object tracking in thermal videography.",
+      "highlights": ["Optimized background subtraction methods for thermal video object tracking.", "Trained and optimized a YOLOv8 machine learning model to improve object detection performance.", "Performing extrinsic calibration of thermal cameras and analyzing over 10,000 tracks using MATLAB and Python (NumPy, pandas, SciPy, TensorFlow)."]
+    },
+    {
+      "name": "Engineers for Exploration, University of California San Diego",
+      "location": "San Diego, CA, USA",
+      "position": "Research Intern",
+      "url": "https://e4e.ucsd.edu/",
+      "startDate": "2025-06-01",
+      "endDate": "2025-08-20",
+      "summary": "Summer 2025 NSF-funded Intern in the Engineers for Exploration program.",
+      "highlights": ["Collaborated with National Geographic explorers on two large-scale bioacoustic data mining projects, characterizing soundscapes with little to no labeled data.", "Applied template matching and unsupervised deep learning to build a Graph Neural Network pipeline uncovering latent links between audio features and environmental variables.", "Pioneered a modular Python package enabling scalable, cross-dataset bioacoustic analysis and integration into future ecological research workflows using libraries such as PyTorch, TensorFlow, and Librosa."]
+    },
+    {
+      "name": "Grainger College of Engineering, University of Illinois Urbana-Champaign",
+      "location": "Urbana, IL, USA",
+      "position": "Lead Engineering Learning Assistant",
+      "startDate": "2025-08-01",
+      "summary": "Teaching an mentoring a section of ~20 Computer Science students in a first-year engineering orientation course (ENG 100) on academic, career, and campus life topics.",
+      "highlights": ["Facilitating student learning and community-building using curated lesson materials.", "Attending weekly instructional meetings to review pedagogy and curriculum design."]
+    },
+    {
+      "name": "Illini Wildlife and Conservation Club",
+      "location": "Urbana, IL, USA",
+      "position": "Vice President",
+      "url": "https://publish.illinois.edu/illini-wildlife-and-conservation/",
+      "startDate": "2024-05-01",
+      "summary": "Organize monthly general meetings and speaker events, inviting speakers to discuss topics in wildlife and conservation biology.",
+      "highlights": ["Participate in philanthropy such as turning off lights around campus to conserve energy and picking up litter around campus."]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "UIUC Bird Strike Survey",
+      "location": "Urbana, IL, USA",
+      "position": "Bird Collision Monitor",
+      "url": "https://sites.google.com/view/uiucbirdstrikes2023/home?authuser=0",
+      "startDate": "2023-09-01",
+      "summary": "Survey 20+ buildings on campus during the bird migration season several times a week for bird-window collisions following survey protocols and log them via ArcGIS QuickCapture.",
+      "highlights": ["Collect specimens for use in teaching and research."]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Illinois Urbana-Champaign",
+      "location": "Urbana, IL, USA",
+      "url": "https://illinois.edu/",
+      "area": "Computer Science, Integrative Biology (dual degree)",
+      "studyType": "Bachelor of Science",
+      "startDate": "2023-08-23",
+      "endDate": "2027-05-15",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Algorithms & Models of Computation", "Linear Algebra with Computational Applications", "Applied Machine Learning", "Deep Learning for Computer Vision", "Probability & Statistics", "Ecology", "Cells, Tissues & Development", "Physiology", "Genetics", "Elementrary Organic Chemistry I", "Introduction to Bioinformatics"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "James Scholar Honors Program",
+      "date": "2025-02-05",
+      "awarder": "Grainger College of Engineering",
+      "url": "https://one.illinois.edu/graingerjscholar/about/",
+      "summary": "The James Scholar Honors Program is a selective academic program at the University of Illinois Urbana-Champaign that recognizes outstanding undergraduate students for their academic excellence and leadership potential."
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Studying Domain Shifts in Bioacoustic Recording Style With Information Theory (Preprint)",
+      "publisher": "Available at SSRN (Preprint No. 5510368)",
+      "releaseDate": "2025-09-20",
+      "url": "https://doi.org/10.2139/ssrn.5510368",
+      "summary": "A major challenge in machine learning (ML) for studying passive acoustic monitoring is the domain shift between directional, handheld, well-labeled focal audio data and omnidirectional, passively recorded, under-labeled soundscapes. ML models trained on the vastly more labeled focal recording datasets struggle to generalize when tested on soundscape recordings. Research in this area has typically focused on the methodology behind training ML models, both to study and alleviate the domain shift. However, less work has been done in quantifying the domain shift hypothesis beyond model performance and species density. This potentially limits our understanding of the factors behind domain shift. We find that the Ecoacoustic Global Complexity Index (EGCI), an acoustic complexity index rooted in information theory, can effectively describe the domain shift and assist in productive research of this domain shift. We demonstrate EGCI's effectiveness in three experiments. First, we show that an SVM can easily classify between soundscape and focal recordings using only EGCI values, with an average accuracy of 81.08% (minimum approx 65%). Second, we demonstrate that EGCI, in conjunction with species density via linear regression, can predict soundscape performance and reveal that EGCI values are negatively correlated with soundscape loss. Finally, we demonstrate that data augmentation, shown in the literature to alleviate domain shift in model performance experiments, reduces the KL-divergence between the EGCI distributions of focal recordings and soundscape recordings."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C++",
+        "Python",
+        "R",
+        "MATLAB",
+        "Java",
+        "SQL",
+        "JavaScript"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Tools & Systems",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Git",
+        "VS Code",
+        "Linux",
+        "Docker",
+        "PostgreSQL",
+        "ArcGIS",
+        "Bootstrap 5",
+        "Mongo DB"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Python Libraries",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "NumPy",
+        "pandas",
+        "scikit-learn",
+        "PyTorch",
+        "TensorFlow",
+        "Librosa",
+        "Matplotlib",
+        "Seaborn",
+        "SciPy"
+      ]
     }
   ]
 }
