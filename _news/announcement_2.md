@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2026-01-20 16:11:00-0400
+date: 2026-03-28 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-I am starting as the Lead Engineering Learning Assistant for the Computer Science department.
+I will be working at the Boyce Thompson Institute at Cornell University this summer as part of their summer 2026 REU program.
 
 <!-- ---
 
