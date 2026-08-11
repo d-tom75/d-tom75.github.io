@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2026-03-28 16:11:00-0400
+date: 2026-08-08 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-I will be working at the Boyce Thompson Institute at Cornell University this summer as part of their summer 2026 REU program.
+I have concluded the Boyce Thompson Institute Plant Genome REU at Cornell University, where I worked within the [Buckler Lab](https://www.maizegenetics.net/). Here, I used a fine-tuned DNA langauge model to study the evolution of young genes within 26 *Zea mays* genomes.
 
 <!-- ---
 

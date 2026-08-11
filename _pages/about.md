@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Junior in Computer Science and Integrative Biology at UIUC # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Senior in Computer Science and Integrative Biology at UIUC # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -35,4 +35,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hello! I am an undergraduate student at the University of Illinois Urbana-Champaign purusing a dual degree in Computer Science and Integrative Biology. I am interested in applying computational methods such as machine learning, computer vision, and bioinformatics to gain new insights in biology. Currently, I am doing research in the [Van Doren Lab of Migration Biology](https://www.migrationbiology.org), where I am studying the effects of light pollution on bird flight behavior through thermal videography.
 
-In my free time, I enjoy playing the classical guitar and viola, play videogames, birdwatching, and learning trivia (especially geography)!
+In my free time, I enjoy playing the classical guitar and viola, playing videogames, birdwatching, and learning trivia!
